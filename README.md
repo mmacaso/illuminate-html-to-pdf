@@ -8,10 +8,10 @@
 
 ##How to use
 ###Inlude the following files in the html page in the following order:
-./lib/jsPDF/jspdf.js\s\s
-./lib/html2canvas/html2canvas.js\s\s
-./lib/canvas2image/canvas2image.js\s\s
-./html2pdf.js\s\s
+        ./lib/jsPDF/jspdf.js
+        ./lib/html2canvas/html2canvas.js
+        ./lib/canvas2image/canvas2image.js
+        ./html2pdf.js
 
 ###Call the following function:
 html2pdf.print(<sources>, <options>, <delete_sources>);
